@@ -1,0 +1,6 @@
+[package]
+name = "pajape"
+version = "0.1.0"
+authors = ["JulienBe <bertozzijulien@gmail.com>"]
+
+[dependencies]
